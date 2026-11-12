@@ -1,0 +1,6 @@
+{
+  "name": "FishINtuition",
+  "description": "Fish Psychology: Fishing Intelligence & Decision Support. Discover waters, analyze live conditions, get lure recommendations, and adapt on the water.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
